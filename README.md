@@ -40,8 +40,8 @@ This portfolio website, built with HTML and CSS.
 
 ## How to Run
 
-1. Keep `html.html` and `css.css` in the same folder.
-2. Open `html.html` in a web browser.
+1. Keep `index.html` and `css.css` in the same folder.
+2. Open `index.html` in a web browser.
 3. You can also open the folder in VS Code and use Live Server.
 
 ## Author
